@@ -1,8 +1,12 @@
-# s21_matrix+
+# Реализация библиотеки s21_matrix_oop.h
 
-Реализация библиотеки s21_matrix_oop.h
+# Запустить тесты:
 
+- `make test`
 
+# Проверка стиля:
+
+- `make check`
 
 <details>
   <summary>Методы матрицы</summary>
